@@ -27,5 +27,5 @@
   <a href="https://www.instagram.com/invites/contact/?i=qdr2djk3y335&utm_content=p4dw62" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
   <a href="https://www.linkedin.com/in/kledisom-oliveira-98542a185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- ![Snake animation](https://github.com/kledisom/kledisom-oliveira/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/kledisom/kledisom/blob/output/github-contribution-grid-snake.svg)
 </div>
